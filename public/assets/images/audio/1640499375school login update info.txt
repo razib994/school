@@ -1,0 +1,22 @@
+http://acc-learning.cretechbd.com/public/login
+
+
+superadmin: 
+username: razib_01
+password: 12345
+
+
+school admin:
+username: mohammadpur
+password: 1234
+
+
+
+teacher:
+teacher create kore nian.
+school admin login kore
+
+
+student:
+username: sumon
+password: 1234

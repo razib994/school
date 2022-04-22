@@ -1,0 +1,75 @@
+
+q_type:
+multiple select
+single select
+Tru/fals
+free text
+fill in the gaps
+
+
+function createOptionTr(i, arg){
+	
+	tr += "tr id='option_tr_id_1' "textbox" + anscheckbox + delete button functuion bonclick="this. clossest tr.remove";
+	apent with option table
+}
+
+
+function creteOptions($type, options=""){
+	if($type == 'multiple select'){
+		if(options.lenget>0){
+			while(i<options.lenget){
+				arg =[
+					'type' : type
+					'option_name' : "India";	
+					'option_id' : "1";	
+					'is_answer' : "1";						
+				];
+				createOptionTr(i , arg);
+			}
+		}
+		while(var i<4){
+			arg =[
+					'type' : type
+					'option_name' :"";	
+					'option_id' : "";	
+					'is_answer' : "";						
+				];
+			createOptionTr(arg);
+		}
+	}
+	else if($type == 'single select'){
+		createOptionTr(i);
+	}
+	else if($type == 'tru fasle'){
+		arg =[
+			'type' : 'trufasle'
+			'option_name' : "True";		
+		];
+		createOptionTr(1, arg);
+		arg =[
+			'type' : 'trufasle'
+			'option_name' : "False";		
+		];
+		createOptionTr(2, arg);
+	}
+	else if($type == 'multiple select'){
+
+	}
+	else if($type == 'multiple select'){
+
+	}
+	else if($type == 'multiple select'){
+
+	}
+}
+
+
+
+edit:
+options = [
+	1 => 1 , India, 0
+	2 => 2 , Bangladesh , 1
+	2 => 3, Pakisthan , 1
+]
+
+creteOptions($type, options)

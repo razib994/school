@@ -1,0 +1,18 @@
+Super Admin 
+url: https://new-education.cretechbd.com/login
+username: admin@gmail.com
+password:123456
+
+
+
+Student Admin:
+url: https://new-education.cretechbd.com/sign_in
+username:kamrul2020
+password:123456
+
+
+Teacher Admin:
+url:http://new-education.cretechbd.com/login
+username:fahim@gmail.com
+password:369852
+

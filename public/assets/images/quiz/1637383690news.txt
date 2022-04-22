@@ -1,0 +1,7 @@
+1. HTML (2 week)
+2. css (3 week)
+3. Javascript (1.5 week)
+4. PSD to HTML (1.5 week)
+5. Bootstraps (3 week)
+6. Project Sikbo (1.5 week)
+7. Basic of PHP (1 week)
